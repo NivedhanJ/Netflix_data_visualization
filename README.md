@@ -31,4 +31,4 @@ Key insights in this Dashboard :
 🎉 My dashboard contains interactive elements that allow users to filter the data and explore different aspects of Netflix data.
 
 
-![Final dashboard](https://github.com/iamnithishwar/Netflix_data_visualization/assets/108410047/8f48f17a-3bf2-4b83-b494-08b5d38baf79)
+![Final dashboard](https://github.com/NivedhanJ/Netflix_data_visualization/blob/main/Final%20dashboard%20(1).png)
